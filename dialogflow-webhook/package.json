@@ -1,0 +1,20 @@
+{
+  "name": "dialogflow-aws-lambda",
+  "version": "1.0.0",
+  "description": "Dialogflow fulfillment webhook on AWS Lambda with ExpressJs",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.2.0",
+    "aws-serverless-express": "^3.3.5",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
+    "cors": "^2.8.5",
+    "dialogflow": "^0.6.0",
+    "dialogflow-fulfillment": "^0.5.0",
+    "express": "^4.16.4",
+    "googleapis": "^27.0.0"
+  }
+}
